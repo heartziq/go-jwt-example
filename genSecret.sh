@@ -1,0 +1,1 @@
+openssl genrsa -out secret.pem 2048
